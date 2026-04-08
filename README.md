@@ -1,9 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:0D1117&height=120&text=João%20Gabriel%20Ramalho&fontSize=38&fontColor=F0F6FF&desc=Software%20Developer%20·%20AI%20Engineering%20·%20Cybersecurity&descSize=13&descAlignY=80&fontAlignY=40&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:0D1117&height=120&text=João%20Gabriel%20Ramalho&fontSize=38&fontColor=F0F6FF&desc=Software%20Developer%20·%20Computer%20Science%20Student&descSize=13&descAlignY=80&fontAlignY=40&animation=fadeIn" width="100%"/>
 </div>
-
 <br/>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielramalho0)
@@ -12,73 +10,45 @@
 ![Views](https://komarev.com/ghpvc/?username=rmlho&color=3B82F6&style=flat-square&label=views)
 
 </div>
-
+<br/>
+<div align="center">
+Computer Science student at <strong>UEPB</strong> · Campina Grande, BR<br/>
+with a technical background in <strong>Digital Games Programming</strong>
+</div>
 <br/>
 
-<div align="center">
+I'm a Computer Science student building a strong foundation in software development. My background in game programming gave me an early start in logic, problem-solving, and structured thinking — and I'm now applying those skills to backend development and real-world projects.
 
-Computer Science student at **UEPB** · Campina Grande, BR<br/>
-with a technical background in **Digital Games Programming**
-
-</div>
-
-I'm a software developer with a strong focus on building well-structured, scalable systems. My background started in game development, which gave me a solid foundation in logic, architecture, and problem-solving — skills I now apply across the full stack of software engineering.
-
-I work primarily on the backend but think in terms of the full picture: how systems are designed, how components interact, how they scale, and how they can be made more resilient. I believe good software is as much about design decisions as it is about the code itself.
-
-Currently expanding into **AI Engineering**, integrating and deploying language models into real-world applications, and into **Cybersecurity**, with a growing interest in offensive security and CTF challenges. I also enjoy automating infrastructure and workflows with DevOps tooling.
+I care about writing clean, well-organized code and understanding how systems are designed from the ground up. Currently focused on consolidating my skills in Python and Java while exploring areas like AI and cybersecurity on the side.
 
 <div align="center">
-
-`Open to software development, AI engineering, and cybersecurity opportunities`
-
+<sub>Open to internship and junior opportunities in software development</sub>
 </div>
-
 
 ---
-
 <br/>
 
 ### 🛠️ Tech Stack
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,python,ts,html,css&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=python,java,html,css&theme=dark" />
 <br/><br/>
 
-**Frameworks & Databases**
+**Tools & Environment**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,dotnet,mysql,postgres&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=linux,git,github,bash,docker,neovim&theme=dark" />
 <br/><br/>
 
-**DevOps & Tools**
+**Currently Learning**
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,neovim,postman&theme=dark" />
-
-<br/><br/>
-
-**AI Engineering**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda,jupyter&theme=dark" />
-
-<br/><br/>
-
-**Cybersecurity**
-<br/>
-<img src="https://skillicons.dev/icons?i=kali,linux,bash,python,vim&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=mysql,react,tensorflow&theme=dark" />
 <br/>
 
 ---
-
 <br/>
-
 <div align="center">
-<sub>Feel free to reach out · Open to new opportunities</sub>
+<sub>Feel free to reach out · Always open to learning and collaborating</sub>
 </div>
-
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3B82F6&height=3" />
