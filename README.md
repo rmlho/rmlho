@@ -80,6 +80,7 @@ while exploring areas like **AI** and **cybersecurity** on the side.
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmlho&show_icons=true&theme=nord&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmlho&layout=compact&theme=nord&hide_border=true)
 
 </div>
