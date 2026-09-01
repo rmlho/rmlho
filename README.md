@@ -59,13 +59,13 @@ while exploring areas like **AI** and **cybersecurity** on the side.
 
 <img src="https://skillicons.dev/icons?i=python,java,c,html,css&theme=dark" />
 
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+
 **Tools & Environment**
 
 <img src="https://skillicons.dev/icons?i=linux,git,github,bash,docker,neovim&theme=dark" />
-
-**Currently Learning**
-
-<img src="https://skillicons.dev/icons?i=mysql,react,tensorflow&theme=dark" />
 
 <br/>
 
