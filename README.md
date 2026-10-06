@@ -34,7 +34,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a Computer Science student building a strong foundation in software engineering. My background in game programming gave me an early start in logic, problem-solving, and structured thinking, and I'm now applying those skills to backend development and real-world projects.<br><br>I'm currently focused on software engineering and backend development with Java and Spring Boot, while consolidating my skills in Java and C#. I care about writing clean, well-organized code and understanding how systems are designed from the ground up. Next, I want to learn iOS development and cybersecurity.</p>
+<p data-importer="text" align="left">I'm a Computer Science student building a strong foundation in software engineering. My background in game programming gave me an early start in logic, problem-solving, and structured thinking, and I'm now applying those skills to backend development and real-world projects.<br><br>I'm currently focused on software engineering and backend development with Java and Spring Boot, while consolidating my skills in Java. I care about writing clean, well-organized code and understanding how systems are designed from the ground up. Next, I want to learn iOS development and cybersecurity.</p>
 
 ###
 
