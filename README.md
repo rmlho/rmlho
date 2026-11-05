@@ -12,6 +12,7 @@ Building **backend systems**, **mobile apps** and **APIs**.
 <div align="center">
   <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
   <img src="https://img.shields.io/badge/Spring-0d1117?style=for-the-badge&logo=spring&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/Quarkus-0d1117?style=for-the-badge&logo=quarkus&logoColor=4695EB" />
   <img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2" />
   <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B" />
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
