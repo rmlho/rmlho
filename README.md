@@ -20,11 +20,8 @@ Building **backend systems**, **mobile apps** and **APIs**.
   <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
   <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Google_Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
   <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=57A143" />
   <img src="https://img.shields.io/badge/Obsidian-0d1117?style=for-the-badge&logo=obsidian&logoColor=483699" />
