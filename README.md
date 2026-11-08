@@ -11,8 +11,8 @@ Building **backend systems**, **mobile apps** and **APIs**.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Quarkus-0d1117?style=for-the-badge" />
+  <img src="spring-boot.svg" />
+  <img src="quarkus.svg" />
   <img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2" />
   <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B" />
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
@@ -21,7 +21,7 @@ Building **backend systems**, **mobile apps** and **APIs**.
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
-  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logoColor=FF9900" />
+  <img src="aws.svg" />
   <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=57A143" />
   <img src="https://img.shields.io/badge/Obsidian-0d1117?style=for-the-badge&logo=obsidian&logoColor=483699" />
